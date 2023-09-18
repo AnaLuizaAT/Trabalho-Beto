@@ -1,0 +1,19 @@
+.product-card .thumbnail {
+  width: 100%;
+}
+
+.product-card .category {
+  background-color: rgb(57, 158, 53);
+  padding-inline: 5px;
+  font-size: 12px;
+}
+
+.product-card .mark {
+  background-color: rgb(187, 82, 82);
+  padding-inline: 5px;
+  font-size: 11px;
+}
+
+.product-card section {
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,7 @@
+.auth-container {
+  background-color: gray;
+  height: 100vh;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+}

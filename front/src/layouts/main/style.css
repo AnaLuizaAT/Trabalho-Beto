@@ -1,0 +1,17 @@
+.main-container {
+  background-color: #eee;
+  min-height: 100vh;
+}
+
+.main-container header {
+  background-color: #ffffff;
+  padding: 2rem;
+  box-shadow: 3px 0px 3px black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-container main {
+  margin-top: 1rem;
+  padding: 2rem 4rem;
+}

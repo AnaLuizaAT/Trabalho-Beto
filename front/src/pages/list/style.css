@@ -1,0 +1,23 @@
+.list-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin-block: 20px;
+}
+
+.list-item {
+  flex-basis: calc(34% - 20px);
+  margin-bottom: 20px;
+}
+
+.insert-product-container {
+  display: block;
+  margin: 2rem auto;
+  max-width: 450px;
+  padding: 2rem;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
